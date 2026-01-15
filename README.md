@@ -27,6 +27,7 @@
 
 > _Building Intelligence for the Next Human Era._
 <br>
+
 ###
 
 <h2 align="left">🛠 Tech Stack</h2>
