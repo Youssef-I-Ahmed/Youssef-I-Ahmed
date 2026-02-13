@@ -1,153 +1,125 @@
-<h1 align="left">Hi 👋 I'm Yousef Ismail</h1>
+<!-- ========================================================= -->
+<!-- 🚀 YOUSEF ISMAIL AHMED | AI-Based Software Developer 🚀 -->
+<!-- ========================================================= -->
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=900&lines=Hi+I'm+Yousef+Ismail+Ahmed+👋;AI-Based+Software+Developer;Data+Scientist+%7C+Machine+Learning+Enthusiast"/>
+</h1>
 
-<h4 align="left">AI-Based Software Developer | Data Science</h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFFFFF,100:000000&section=header"/>
+</p>
 
-###
+---
 
-<div align="left">
+## 👨‍💻 About Me
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yousef-ismail87/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-         width="52" height="40" alt="LinkedIn" />
-  </a>
+🎓 AI-Based Software Development Trainee  
+📊 Passionate about Data Analysis, Machine Learning, and Intelligent Systems  
+💻 Background in Business Information Technology  
+🧠 Strong interest in AI-powered applications and data-driven solutions  
+🚀 Goal: Build scalable AI software that solves real-world problems  
 
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/yousef.i.ahmed" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-         width="52" height="40" alt="Discord" />
-  </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201125108044?text=Hello%20Yousef%2C%20I%20would%20like%20to%20get%20in%20touch%20with%20you."
-     target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"
-         width="52" height="40" alt="WhatsApp" />
-  </a>
-  <!-- Outlook -->
-  <a href="mailto:yousef8720@outlook.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg"
-         width="52" height="40" alt="Outlook Email" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:yousefismail51@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-         width="52" height="40" alt="Gmail" />
-  </a>
-  <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/yousef8720" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg"
-         width="52" height="40" alt="HackerRank" />
-  </a>
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/Yousef8720/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"
-         width="52" height="40" alt="LeetCode" />
-  </a>
+> **"Building Intelligence for the Next Human Era."**
 
-</div>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yousef-ismail87/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yousef%20Ismail-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:yousefismail51@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/201125108044">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://leetcode.com/Yousef8720/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/yousef8720">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
 
 
-###
+## 🛠 Tech Stack
 
-<h2 align="left">👨‍💻 About Me</h2>
+### 🤖 AI & Data Science
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,anaconda" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48"/>
+</p>
 
-###
+<p align="center">
+Python • Pandas • NumPy • Scikit-learn • Jupyter • Data Analysis • Machine Learning
+</p>
 
-<p align="left">- AI-based software development trainee<br>- Interested in data analysis and machine learning<br></p>
 
-> _Building Intelligence for the Next Human Era._
-<br>
 
-###
+### 💻 Software Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express" />
+</p>
 
-<h2 align="left">🛠 Tech Stack</h2>
+<p align="center">
+HTML • CSS • JavaScript • TypeScript • React • Node.js • Express
+</p>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="typescript logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="41" alt="amazonwebservices logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="41" alt="anaconda logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="41" alt="angularjs logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="41" alt="azure logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="41" alt="cplusplus logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="41" alt="dotnetcore logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="41" alt="dot-net logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="41" alt="figma logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="41" alt="git logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="41" alt="github logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="41" alt="gitlab logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="41" alt="googlecloud logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="41" alt="jupyter logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="41" alt="pandas logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="41" alt="mongodb logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="41" alt="bootstrap logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="41" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="41" alt="express logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="41" alt="firebase logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="41" alt="jquery logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="41" alt="microsoftsqlserver logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="41" alt="matlab logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="41" alt="numpy logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="41" alt="react logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="41" alt="selenium logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="41" alt="wordpress logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="41" alt="xd logo"  />
-</div>
 
-###
+### 🗄️ Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48"/>
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Youssef-I-Ahmed.Youssef-I-Ahmed&"  />
-</div>
+<p align="center">
+MySQL • SQL Server • MongoDB • Firebase
+</p>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
-###
+### ⚙️ Tools & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,azure,linux,vscode,postman" />
+</p>
+
+<p align="center">
+Git • GitHub • Docker • Kubernetes • Azure • Linux • VS Code • Postman
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 Data Analysis Projects  
+🔹 Interactive Dashboards  
+🔹 Full Stack Web Applications  
+🔹 Intelligent Software Systems  
+
+---
+
+## 🧠 Current Focus
+
+✔ AI-Based Software Development  
+✔ Machine Learning  
+✔ Data Analysis  
+✔ Building Real-World Projects  
+✔ Preparing for Software Engineering Career  
+
+
+<p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Yousef8720"/> </p> <p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FFFFF,100:000000&section=footer"/> </p>
